@@ -2,8 +2,6 @@ Bitmap Plasma
 =============
 Bitmap Plasma is an Android sample that uses JNI to render a plasma effect in an Android [Bitmap](http://developer.android.com/reference/android/graphics/Bitmap.html) from C code.
 
-bitmap-plasma-melvincabatuan created by Classroom for GitHub
-
 Pre-requisites
 --------------
 - Android Studio 1.3+ with [NDK](https://developer.android.com/ndk/) bundle.
@@ -47,33 +45,3 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-
-# This Assignment 
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/90a62b2de28d0c3826a5cb9f45390b27
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Videocapture:
-
-[![screenshot](bitmap_plasma.png)](https://www.youtube.com/watch?v=7pSNEc31TOw)
-
-"*The most disastrous thing that you can ever learn is your first programming language.*" - Alan Kay
